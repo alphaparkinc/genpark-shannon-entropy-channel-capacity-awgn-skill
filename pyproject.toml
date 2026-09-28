@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-shannon-entropy-channel-capacity-awgn-skill"
+version = "1.0.0"
+description = "Shannon-Hartley AWGN channel capacity theorem, mutual information, and binary symmetric channel limits"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
